@@ -1,0 +1,1 @@
+data class Card(val id: Int, val value: String, var isFlipped: Boolean = false, var isMatched: Boolean = false)
